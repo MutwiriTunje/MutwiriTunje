@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MutwiriTunje
-- 👀 I’m interested in python programs and django framework
+- 👀 I’m interested in python development and django framework
 - 🌱 I’m currently learning django, php and python
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me, email:tunjegituma@gmail.com
