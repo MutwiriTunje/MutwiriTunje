@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MutwiriTunje
-- 👀 I’m interested in python development and django framework
+- 👀 I’m interested in python development and machine learning
 - 🌱 I’m currently learning django, php and python
-- 💞️ I’m looking to collaborate on python projects
-- 📫 How to reach me, email:tunjegituma@gmail.com
+- 💞️ I’m looking to collaborate on python projects and machine learning projects
+- 📫 How to reach me, email:tunjegituma@gmail.com, linkedin:https://www.linkedin.com/in/tunje
 
 
 <!---
